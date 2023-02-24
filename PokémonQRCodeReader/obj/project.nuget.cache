@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzvBj0gTZjwId3qo7kiiT2azZMGlQhI+qdPA3Iqja9PCENKjPeO5kE0cKtMC3gwDIgA2tBPS8JZkHwvLmFLIng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yujim\\Desktop\\Visual Studio 2019 Repository\\PokémonQRCodeReader\\PokémonQRCodeReader\\PokémonQRCodeReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yujim\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}

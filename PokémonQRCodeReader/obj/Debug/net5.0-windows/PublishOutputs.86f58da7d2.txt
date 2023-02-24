@@ -1,0 +1,6 @@
+C:\Users\Yujim\Desktop\asd\PokémonQRCodeReader.exe
+C:\Users\Yujim\Desktop\asd\PokémonQRCodeReader.dll
+C:\Users\Yujim\Desktop\asd\PokémonQRCodeReader.deps.json
+C:\Users\Yujim\Desktop\asd\PokémonQRCodeReader.runtimeconfig.json
+C:\Users\Yujim\Desktop\asd\PokémonQRCodeReader.pdb
+C:\Users\Yujim\Desktop\asd\zxing.dll

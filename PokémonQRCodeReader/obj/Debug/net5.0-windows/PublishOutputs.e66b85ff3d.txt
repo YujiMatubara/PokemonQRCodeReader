@@ -1,0 +1,6 @@
+C:\Users\Yujim\Desktop\Visual Studio 2019 Repository\PokémonQRCodeReader\PokémonQRCodeReader\bin\Debug\net5.0-windows\publish\PokémonQRCodeReader.exe
+C:\Users\Yujim\Desktop\Visual Studio 2019 Repository\PokémonQRCodeReader\PokémonQRCodeReader\bin\Debug\net5.0-windows\publish\PokémonQRCodeReader.dll
+C:\Users\Yujim\Desktop\Visual Studio 2019 Repository\PokémonQRCodeReader\PokémonQRCodeReader\bin\Debug\net5.0-windows\publish\PokémonQRCodeReader.deps.json
+C:\Users\Yujim\Desktop\Visual Studio 2019 Repository\PokémonQRCodeReader\PokémonQRCodeReader\bin\Debug\net5.0-windows\publish\PokémonQRCodeReader.runtimeconfig.json
+C:\Users\Yujim\Desktop\Visual Studio 2019 Repository\PokémonQRCodeReader\PokémonQRCodeReader\bin\Debug\net5.0-windows\publish\PokémonQRCodeReader.pdb
+C:\Users\Yujim\Desktop\Visual Studio 2019 Repository\PokémonQRCodeReader\PokémonQRCodeReader\bin\Debug\net5.0-windows\publish\zxing.dll
